@@ -1,8 +1,8 @@
-# wsp social here.
+# -wsp social here.
 
 <img width="1344" height="768" alt="image" src="https://github.com/user-attachments/assets/b197ad2b-7948-434e-b258-99edb2f0bee7" />
 
-# @social | abt me
+# -@social | abt me
 
 ```
 programmer
@@ -10,12 +10,13 @@ programmer
 selfbot dev
 
 coding lang : python/javascript
+windows
 
 projects : batman,g4ng,autoburstreact sb,901 client
 ```
-# team : lappy,j4j,rei,ego,103
+# -team : lappy,j4j,rei,ego,103
 
-# discord : social.wtf
+# -discord : social.wtf
 
-# taken? : na
-# status : active
+# -taken? : na
+# -status : active
