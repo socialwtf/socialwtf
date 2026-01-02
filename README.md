@@ -15,7 +15,7 @@ projects : batman,g4ng,autoburstreact sb,901 client
 ```
 # team : lappy,j4j,rei,ego,103
 
-# discord : _social.xyz
+# discord : social.wtf
 
 # taken? : na
 # status : active
