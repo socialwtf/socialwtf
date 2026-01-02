@@ -1,16 +1,22 @@
-## Hi there 👋
+# wsp
 
-<!--
-**socialwtf/socialwtf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/f1f929b0-ddda-4888-ac7e-6891d179c8ea" />
 
-Here are some ideas to get you started:
+# @social | abt me
+<img width="1344" height="768" alt="image" src="https://github.com/user-attachments/assets/4a3b8b4f-7300-4efc-93d0-578409522e80" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+programmer
+
+selfbot dev
+
+coding lang : python/javascript
+
+projects : batman,g4ng,autoburstreact sb,901 client
+```
+# team : lappy,j4j,rei,ego,103
+
+# discord : _social.xyz
+
+# taken? : na
+# status : active
