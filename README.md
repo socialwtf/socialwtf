@@ -1,9 +1,8 @@
-# wsp
+# wsp social here.
 
-<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/f1f929b0-ddda-4888-ac7e-6891d179c8ea" />
+<img width="1344" height="768" alt="image" src="https://github.com/user-attachments/assets/b197ad2b-7948-434e-b258-99edb2f0bee7" />
 
 # @social | abt me
-<img width="1344" height="768" alt="image" src="https://github.com/user-attachments/assets/4a3b8b4f-7300-4efc-93d0-578409522e80" />
 
 ```
 programmer
